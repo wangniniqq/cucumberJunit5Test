@@ -56,7 +56,7 @@
 -------------------------------------------------------------------------------------
     下面是一个配置示例：
     如果你正在使用 Maven 进行构建，你可以在 pom.xml 文件中添加以下配置：
-    xmlCopy Code<properties>
+    <properties>
     <cucumber.execution.parallel.config.strategy>scenario</cucumber.execution.parallel.config.strategy>
     </properties>
     
